@@ -68,7 +68,7 @@ Participants are required to use **Preswald** as the core framework. You can int
 
 ## 🤝 Get Involved
 
-Interested in mentoring, sponsoring, or partnering? Reach out to us at **[hackathon@preswald.com](mailto:avani@structuredlabs.com)**.
+Interested in mentoring, sponsoring, or partnering? Reach out to us at **[avani@structuredlabs.com](mailto:avani@structuredlabs.com)**.
 
 ## 📣 Spread the Word
 
