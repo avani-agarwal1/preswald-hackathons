@@ -1,5 +1,8 @@
 # 🧠 Preswald Data App Hackathon
 
+[![Hackathon 1.0 Banner](hackathon1.png)](https://preswald.com)
+
+
 Welcome to the **Preswald Data App Hackathon**—your opportunity to transform Python scripts into interactive, shareable data applications using Preswald's innovative platform. Whether you're a data scientist, analyst, or developer, this hackathon is your chance to showcase your skills and creativity.
 
 ## 🚀 What is Preswald?
